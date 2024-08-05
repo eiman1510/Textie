@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Textie/static/css/main.f855e6bc.css",
+    "main.js": "/Textie/static/js/main.ec026a91.js",
+    "static/js/453.496809be.chunk.js": "/Textie/static/js/453.496809be.chunk.js",
+    "index.html": "/Textie/index.html",
+    "main.f855e6bc.css.map": "/Textie/static/css/main.f855e6bc.css.map",
+    "main.ec026a91.js.map": "/Textie/static/js/main.ec026a91.js.map",
+    "453.496809be.chunk.js.map": "/Textie/static/js/453.496809be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ec026a91.js"
+  ]
+}
